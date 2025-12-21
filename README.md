@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff00cc,100:333399&height=200&section=header&text=%20MXXI.KR&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer%20%26%20Data%20Engineer&descAlignY=72&descAlign=50&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff00cc,100:333399&height=200&section=header&text=MXXI.KR&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer%20%26%20Data%20Engineer&descAlignY=72&descAlign=50&animation=fadeIn" width="100%" alt="header" />
 </div>
 
 <br/>
@@ -30,7 +30,6 @@
 <div align="center">
   <h3>📰 Latest Blog Posts</h3>
 </div>
-
 <br/>
 
 <div align="center">
