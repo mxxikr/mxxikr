@@ -30,6 +30,7 @@
 <div align="center">
   <h3>📰 Latest Blog Posts</h3>
 </div>
+
 <!-- BLOG-POST-LIST:START -->
 - [코틀린의 탄생 배경과 특징](https://mxxikr.github.io/posts/why-kotlin-was-created/)
 - [Jekyll 블로그 레이아웃 깨짐 및 이미지 로드 실패 트러블 슈팅](https://mxxikr.github.io/posts/jekyll-image-troubleshooting/)
@@ -37,6 +38,7 @@
 - [Jekyll 블로그 플로팅 버튼 고정 실패&lpar;position: fixed 속성&rpar; 트러블 슈팅](https://mxxikr.github.io/posts/back-to-top-troubleshooting/)
 - [Git Push 실패: RPC failed HTTP 400 에러 해결하기](https://mxxikr.github.io/posts/git-sync-http-400-error/)
 <!-- BLOG-POST-LIST:END -->
+
 <br/>
 
 <div align="center">
