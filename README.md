@@ -30,7 +30,9 @@
 <div align="center">
   <h3>📰 Latest Blog Posts</h3>
 </div>
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
 <br/>
 
 <div align="center">
