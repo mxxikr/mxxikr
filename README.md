@@ -30,6 +30,7 @@
 <div align="center">
   <h3>📰 Latest Blog Posts</h3>
 </div>
+
 <br/>
 
 <div align="center">
