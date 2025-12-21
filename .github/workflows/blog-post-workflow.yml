@@ -21,5 +21,3 @@ jobs:
           template: "$newline<p><a href='$url'>$title</a></p>"
           committer_username: "github-actions[bot]"
           committer_email: "github-actions[bot]@users.noreply.github.com"
-          # 리스트 관련 기본 설정을 빈 값으로 덮어씌움
-          item_format: "$newline$title"
