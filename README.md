@@ -1,14 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff00cc,100:333399&height=200&section=header&text=MXXI.KR&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Backend%20Developer%20%26%20Data%20Engineer&descAlignY=72&descAlign=50&animation=fadeIn" width="100%" alt="header" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>
-    👋 Hello <b>mxxikr</b> world! 👋
-  </h3>
-  
   <a href="https://mxxikr.github.io">
     <img src="https://img.shields.io/badge/Tech%20Blog-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111"/>
   </a>
@@ -84,7 +74,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://visit-count-new.vercel.app/api/index.php?id=mxxikr&icon=github&icon_color=E94560&text_color=FFFFFF&bg_color=151515&border_color=E94560" />
-</div>
