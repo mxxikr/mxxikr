@@ -68,6 +68,7 @@
 <div align="center">
   <h3>🏆 Certifications</h3>
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco%20CCNP-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
   <img src="https://img.shields.io/badge/RedHat%20RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white">
   <img src="https://img.shields.io/badge/VMware%20VCP-607078?style=flat-square&logo=vmware&logoColor=white">
