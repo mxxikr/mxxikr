@@ -21,11 +21,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/algorithm-prefix-sum/'>구간 합&lpar;Prefix Sum&rpar;이란?</a></p>
 <p><a href='https://mxxikr.github.io/posts/backend-basics-chapter2/'>주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 2장</a></p>
 <p><a href='https://mxxikr.github.io/posts/system-arraycopy/'>Java의 배열 복사 System.arraycopy</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-input-parsing/'>Java 입출력 및 파싱 방식 비교</a></p>
-<p><a href='https://mxxikr.github.io/posts/array-vs-list/'>배열&lpar;Array&rpar;과 리스트&lpar;List&rpar;의 차이</a></p>
-<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter1/'>주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 1장</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/array-vs-list/'>배열&lpar;Array&rpar;과 리스트&lpar;List&rpar;의 차이</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
