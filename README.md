@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter4/'>주니어 백엔드 개발자가 반드시 알아야 할 지식 - 4장</a></p>
 <p><a href='https://mxxikr.github.io/posts/algorithm-two-pointers/'>투 포인터 알고리즘</a></p>
 <p><a href='https://mxxikr.github.io/posts/algorithm-combination-implementation/'>조합&lpar;Combination&rpar; 구하기</a></p>
 <p><a href='https://mxxikr.github.io/posts/algorithm-prefix-sum-modular/'>나머지 연산과 구간 합</a></p>
-<p><a href='https://mxxikr.github.io/posts/java-basic-reference-types/'>김영한의 실전 자바 - 기본형과 참조형</a></p>
-<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter3/'>주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 3장</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/java-basic-reference-types/'>김영한의 실전 자바 - 기본형과 참조형</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
