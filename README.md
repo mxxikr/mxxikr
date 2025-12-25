@@ -18,6 +18,20 @@
 <br/>
 
 <div align="center">
+  <h3>🧩 BOJ Profile</h3>
+  
+  <a href="https://solved.ac/mxxikr">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mxxikr" height="180px" />
+  </a>
+  
+  <a href="https://solved.ac/mxxikr">
+    <img src="http://mazandi.herokuapp.com/api?handle=mxxikr&theme=warm" height="180px" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
