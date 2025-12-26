@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter5/'>주니어 백엔드 개발자가 반드시 알아야 할 지식 - 5장</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-basic-constructor/'>김영한의 실전 자바 - 생성자</a></p>
 <p><a href='https://mxxikr.github.io/posts/algorithm-stack-queue/'>스택과 큐 알고리즘</a></p>
 <p><a href='https://mxxikr.github.io/posts/algorithm-sliding-window/'>슬라이딩 윈도우 알고리즘</a></p>
-<p><a href='https://mxxikr.github.io/posts/java-basic-oop/'>김영한의 실전 자바 - 객체 지향 프로그래밍</a></p>
-<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter4/'>주니어 백엔드 개발자가 반드시 알아야 할 지식 - 4장</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/java-basic-oop/'>김영한의 실전 자바 - 객체 지향 프로그래밍</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
