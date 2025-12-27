@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/java-basic-package/'>김영한의 실전 자바 - 패키지</a></p>
 <p><a href='https://mxxikr.github.io/posts/flyway-basics/'>Flyway란?</a></p>
 <p><a href='https://mxxikr.github.io/posts/terraform-basics/'>Terraform이란?</a></p>
 <p><a href='https://mxxikr.github.io/posts/ansible-basics/'>Ansible이란?</a></p>
-<p><a href='https://mxxikr.github.io/posts/java-lts-versions/'>Java LTS 버전별 차이</a></p>
-<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter5/'>주니어 백엔드 개발자가 반드시 알아야 할 지식 - 5장</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/java-lts-versions/'>Java LTS 버전별 차이</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
