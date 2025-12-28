@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/kotlin-property-and-access-modifiers/'>Kotlin 프로퍼티와 접근 제어자</a></p>
 <p><a href='https://mxxikr.github.io/posts/how-kotlin-was-developed-in-kotlin/'>Kotlin은 어떻게 Kotlin으로 개발되었는가?</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-basic-package/'>김영한의 실전 자바 - 패키지</a></p>
 <p><a href='https://mxxikr.github.io/posts/flyway-basics/'>Flyway란?</a></p>
-<p><a href='https://mxxikr.github.io/posts/terraform-basics/'>Terraform이란?</a></p>
-<p><a href='https://mxxikr.github.io/posts/ansible-basics/'>Ansible이란?</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/terraform-basics/'>Terraform이란?</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
