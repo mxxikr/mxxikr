@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/java-basic-extends/'>김영한의 실전 자바 - 상속</a></p>
+<p><a href='https://mxxikr.github.io/posts/java-basic-final/'>김영한의 실전 자바 - final</a></p>
 <p><a href='https://mxxikr.github.io/posts/backend-basics-chapter7/'>주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 7장 IO 병목, 어떻게 해결하지</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-basic-static/'>김영한의 실전 자바 - 자바 메모리 구조와 static</a></p>
-<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter6/'>주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 6장 동시성, 데이터가 꼬이기 전에 잡아야한다</a></p>
-<p><a href='https://mxxikr.github.io/posts/java-basic-capsul/'>김영한의 실전 자바 - 접근 제어자</a></p>
-<p><a href='https://mxxikr.github.io/posts/kotlin-property-and-access-modifiers/'>Kotlin 프로퍼티와 접근 제어자</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter6/'>주니어 백엔드 개발자가 반드시 알아야 할 실무 지식 - 6장 동시성, 데이터가 꼬이기 전에 잡아야한다</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
