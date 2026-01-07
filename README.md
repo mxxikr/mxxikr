@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/java-part2-class-advanced/'>독하게 시작하는 Java Part 2 - 클래스2</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-part2-class-structure/'>독하게 시작하는 Java Part 2 - 클래스1</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-basic-poly3/'>김영한의 실전 자바 - 다형성과 설계</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-basic-poly2/'>김영한의 실전 자바 - 다형성 2</a></p>
-<p><a href='https://mxxikr.github.io/posts/java-basic-poly1/'>김영한의 실전 자바 - 다형성 1</a></p>
-<p><a href='https://mxxikr.github.io/posts/java-basic-extends/'>김영한의 실전 자바 - 상속</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/java-basic-poly1/'>김영한의 실전 자바 - 다형성 1</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
