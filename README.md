@@ -35,7 +35,7 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-<p><a href='https://mxxikr.github.io/posts/kotlin-null-safety/'>Kotlin의 Null Safety</a></p>
+<p><a href='https://mxxikr.github.io/posts/java-part2-immutable-string/'>ㅊ</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-part2-gc-object/'>독하게 시작하는 Java Part 2 - JVM과 GC 그리고 객체</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-part2-jvm/'>독하게 시작하는 Java Part 2 - JVM 기본 이론</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-part2-polymorphism/'>독하게 시작하는 Java Part 2 - 다형성</a></p>
