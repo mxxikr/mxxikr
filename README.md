@@ -36,10 +36,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 <p><a href='https://mxxikr.github.io/posts/kotlin-null-safety/'>Kotlin의 Null Safety</a></p>
+<p><a href='https://mxxikr.github.io/posts/java-part2-jvm/'>독하게 시작하는 Java Part 2 - JVM 기본 이론</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-part2-polymorphism/'>독하게 시작하는 Java Part 2 - 다형성</a></p>
 <p><a href='https://mxxikr.github.io/posts/java-part2-inheritance/'>독하게 시작하는 Java Part 2 - 상속과 관계</a></p>
-<p><a href='https://mxxikr.github.io/posts/java-part2-class-advanced/'>독하게 시작하는 Java Part 2 - 클래스2</a></p>
-<p><a href='https://mxxikr.github.io/posts/java-part2-class-structure/'>독하게 시작하는 Java Part 2 - 클래스1</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/java-part2-class-advanced/'>독하게 시작하는 Java Part 2 - 클래스2</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
