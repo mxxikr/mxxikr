@@ -11,8 +11,8 @@
 
 <div align="center">
   <h3>📈 GitHub Analytics</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=mxxikr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=151515&title_color=E94560&icon_color=E94560" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxxikr&layout=compact&theme=radical&hide_border=true&bg_color=151515&title_color=E94560" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mxxikr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=151515&title_color=E94560&icon_color=E94560" height="180px" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mxxikr&layout=compact&theme=radical&hide_border=true&bg_color=151515&title_color=E94560" height="180px" />
 </div>
 
 <br/>
@@ -21,11 +21,11 @@
   <h3>🧩 BOJ Profile</h3>
   
   <a href="https://solved.ac/mxxikr">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mxxikr" height="180px" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mxxikr" height="180px" />
   </a>
   
   <a href="https://solved.ac/mxxikr">
-    <img src="http://mazandi.herokuapp.com/api?handle=mxxikr&theme=warm" height="180px" />
+    <img src="https://mazandi.herokuapp.com/api?handle=mxxikr&theme=warm" height="180px" />
   </a>
 </div>
 
