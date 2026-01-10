@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-container-and-bean/'>김영한의 스프링 핵심 원리 기본편 - 스프링 컨테이너와 스프링 빈</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-oop-principles/'>김영한의 스프링 핵심 원리 기본편 - 객체 지향 원리 적용</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-example-creation/'>김영한의 스프링 핵심 원리 기본편 - 예제 만들기</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-core-principles/'>김영한의 스프링 핵심 원리 기본편 - 객체지향 설계와 스프링</a></p>
-<p><a href='https://mxxikr.github.io/posts/algorithm-dfs/'>깊이 우선 탐색 &lpar;DFS, Depth-First Search&rpar; 알고리즘</a></p>
-<p><a href='https://mxxikr.github.io/posts/java-part2-exception-handling/'>독하게 시작하는 Java Part 2 - 예외 처리</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/algorithm-dfs/'>깊이 우선 탐색 &lpar;DFS, Depth-First Search&rpar; 알고리즘</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
