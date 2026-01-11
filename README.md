@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/kotlin-gradle-build-kts/'>build.gradle.kts와 Kotlin Script, DSL의 이해</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-component-scan/'>김영한의 스프링 핵심 원리 기본편 - 컴포넌트 스캔</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-singleton-container/'>김영한의 스프링 핵심 원리 기본편 - 싱글톤 컨테이너</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-container-and-bean/'>김영한의 스프링 핵심 원리 기본편 - 스프링 컨테이너와 스프링 빈</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-oop-principles/'>김영한의 스프링 핵심 원리 기본편 - 객체 지향 원리 적용</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-example-creation/'>김영한의 스프링 핵심 원리 기본편 - 예제 만들기</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-core-principles/'>김영한의 스프링 핵심 원리 기본편 - 객체지향 설계와 스프링</a></p>
-<p><a href='https://mxxikr.github.io/posts/algorithm-dfs/'>깊이 우선 탐색 &lpar;DFS, Depth-First Search&rpar; 알고리즘</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-oop-principles/'>김영한의 스프링 핵심 원리 기본편 - 객체 지향 원리 적용</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
