@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-bean-lifecycle-callback/'>[김영한의 스프링 핵심 원리 기본편] 빈 생명주기 콜백</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-dependency-injection/'>[김영한의 스프링 핵심 원리 기본편] 의존관계 자동 주입</a></p>
 <p><a href='https://mxxikr.github.io/posts/kotlin-gradle-build-kts/'>build.gradle.kts와 Kotlin Script, DSL의 이해</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-component-scan/'>[김영한의 스프링 핵심 원리 기본편] 컴포넌트 스캔</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-singleton-container/'>[김영한의 스프링 핵심 원리 기본편] 싱글톤 컨테이너</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-container-and-bean/'>[김영한의 스프링 핵심 원리 기본편] 스프링 컨테이너와 스프링 빈</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-oop-principles/'>[김영한의 스프링 핵심 원리 기본편] 객체 지향 원리 적용</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-singleton-container/'>[김영한의 스프링 핵심 원리 기본편] 싱글톤 컨테이너</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
