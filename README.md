@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/algorithm-sieve-of-eratosthenes/'>에라토스테네스의 체 &lpar;Sieve of Eratosthenes&rpar; 알고리즘</a></p>
 <p><a href='https://mxxikr.github.io/posts/http-methods/'>[모든 개발자를 위한 HTTP 웹 기본 지식] HTTP 메서드</a></p>
 <p><a href='https://mxxikr.github.io/posts/http-basic/'>[모든 개발자를 위한 HTTP 웹 기본 지식] HTTP 기본</a></p>
 <p><a href='https://mxxikr.github.io/posts/http-uri-web-request-flow/'>[모든 개발자를 위한 HTTP 웹 기본 지식] URI와 웹 브라우저 요청 흐름</a></p>
-<p><a href='https://mxxikr.github.io/posts/http-internet-network/'>[모든 개발자를 위한 HTTP 웹 기본 지식] 인터넷 네트워크</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-bean-scope/'>[김영한의 스프링 핵심 원리 기본편] 빈 스코프</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/http-internet-network/'>[모든 개발자를 위한 HTTP 웹 기본 지식] 인터넷 네트워크</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
