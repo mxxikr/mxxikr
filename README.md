@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-mvc-web-application/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] 웹 애플리케이션 이해</a></p>
 <p><a href='https://mxxikr.github.io/posts/backend-basics-chapter8/'>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] 8장 실무에서 꼭 필요한 보안 지식</a></p>
 <p><a href='https://mxxikr.github.io/posts/http-headers-cache/'>[모든 개발자를 위한 HTTP 웹 기본 지식] HTTP 헤더2 - 캐시와 조건부 요청</a></p>
 <p><a href='https://mxxikr.github.io/posts/http-headers-general/'>[모든 개발자를 위한 HTTP 웹 기본 지식] HTTP 헤더1 - 일반 헤더</a></p>
-<p><a href='https://mxxikr.github.io/posts/http-status-code/'>[모든 개발자를 위한 HTTP 웹 기본 지식] HTTP 상태코드</a></p>
-<p><a href='https://mxxikr.github.io/posts/http-method-utilization/'>[모든 개발자를 위한 HTTP 웹 기본 지식] HTTP 메서드 활용</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/http-status-code/'>[모든 개발자를 위한 HTTP 웹 기본 지식] HTTP 상태코드</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
