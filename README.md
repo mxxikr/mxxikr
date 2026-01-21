@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/mermaid-cli-png-conversion/'>Mermaid CLI로 다이어그램을 고화질 PNG로 변환하기</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-mvc-framework/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] MVC 프레임워크 만들기</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-mvc-servlet-jsp-mvc/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] 서블릿, JSP, MVC 패턴</a></p>
 <p><a href='https://mxxikr.github.io/posts/kotlin-inheritance-spring-integration/'>Kotlin 상속 제한과 Spring과의 통합</a></p>
-<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter9/'>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] 9장 최소한 알고 있어야 할 서버 지식</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-mvc-servlet/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] Servlet</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-mvc-web-application/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] 웹 애플리케이션 이해</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter9/'>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] 9장 최소한 알고 있어야 할 서버 지식</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
