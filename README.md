@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter11/'>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] 11장 자주 쓰는 서버 구조와 설계 패턴</a></p>
 <p><a href='https://mxxikr.github.io/posts/thymeleaf-basic-features/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 타임리프 기본 기능</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-mvc-web-page-guide/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] 스프링 MVC 웹 페이지 만들기</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-mvc-basic-features/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] 스프링 MVC 기본 기능</a></p>
-<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter10/'>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] 10장 모르면 답답해지는 네트워크 기초</a></p>
-<p><a href='https://mxxikr.github.io/posts/mermaid-cli-png-conversion/'>Mermaid CLI로 다이어그램을 고화질 PNG로 변환하기</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/backend-basics-chapter10/'>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] 10장 모르면 답답해지는 네트워크 기초</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
