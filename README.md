@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-mvc-bean-validation/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 핵심 기술] 검증2 - Bean Validation</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-mvc-validation/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 핵심 기술] 검증1 - Validation</a></p>
 <p><a href='https://mxxikr.github.io/posts/backend-basics-appendix-a/'>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] 부록 A 성능 테스트</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-mvc-message-internationalization/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] 스프링 MVC 메시지, 국제화</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-mvc-thymeleaf-spring-integration/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] 타임리프 스프링 통합과 폼 처리</a></p>
-<p><a href='https://mxxikr.github.io/posts/kotlin-val-data-class/'>Kotlin val과 Data Class</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-mvc-thymeleaf-spring-integration/'>[김영한의 스프링 MVC 1편 백엔드 웹 개발 핵심 기술] 타임리프 스프링 통합과 폼 처리</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
