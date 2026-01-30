@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-mvc-file-upload/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 파일 업로드</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-mvc-type-converter/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 스프링 타입 컨버터</a></p>
 <p><a href='https://mxxikr.github.io/posts/backend-basics-nosql/'>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] 부록 B NoSQL 이해하기</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-mvc-api-exception-handling/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] API 예외 처리</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-mvc-exception-handling/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 예외 처리와 오류 페이지</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-mvc-filter-interceptor/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 로그인 처리 - 필터와 인터셉터</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-mvc-login-session/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 로그인 처리 - 쿠키와 세션</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-mvc-exception-handling/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 예외 처리와 오류 페이지</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
