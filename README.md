@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-db-transaction-understanding/'>[김영한의 스프링 DB 1편 데이터 접근 핵심 원리] 트랜잭션 이해</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-db-connection-pool-datasource/'>[김영한의 스프링 DB 1편 데이터 접근 핵심 원리] 커넥션풀과 데이터소스 이해</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-db-jdbc-basics/'>[김영한의 스프링 DB 1편 데이터 접근 핵심 원리] JDBC 이해</a></p>
 <p><a href='https://mxxikr.github.io/posts/backend-basics-appendix-c/'>[주니어 백엔드 개발자가 반드시 알아야 할 실무 지식] 부록 C DB로 분산 잠금 구현하기</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-mvc-file-upload/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 파일 업로드</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-mvc-type-converter/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 스프링 타입 컨버터</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-mvc-file-upload/'>[김영한의 스프링 MVC 2편 백엔드 웹 개발 활용 기술] 파일 업로드</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
