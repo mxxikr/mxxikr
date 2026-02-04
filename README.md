@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-db-access-technology-start/'>[김영한의 스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 시작</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-db-exception-problem-solving/'>[김영한의 스프링 DB 1편 데이터 접근 핵심 원리] 스프링 예외 추상화와 반복 문제 해결</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-db-java-exception/'>[김영한의 스프링 DB 1편 데이터 접근 핵심 원리] 자바 예외 이해</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-db-transaction-problem-solving/'>[김영한의 스프링 DB 1편 데이터 접근 핵심 원리] 스프링과 문제 해결 - 트랜잭션</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-db-transaction-understanding/'>[김영한의 스프링 DB 1편 데이터 접근 핵심 원리] 트랜잭션 이해</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-db-connection-pool-datasource/'>[김영한의 스프링 DB 1편 데이터 접근 핵심 원리] 커넥션풀과 데이터소스 이해</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-db-transaction-understanding/'>[김영한의 스프링 DB 1편 데이터 접근 핵심 원리] 트랜잭션 이해</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
