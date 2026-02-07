@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
   <a href="https://mxxikr.github.io">
     <img src="https://img.shields.io/badge/Tech%20Blog-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111"/>
   </a>
@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="center">
+<div align="">
   <h3>📈 GitHub Analytics</h3>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mxxikr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=151515&title_color=E94560&icon_color=E94560" height="180px" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mxxikr&layout=compact&theme=radical&hide_border=true&bg_color=151515&title_color=E94560" height="180px" />
@@ -17,7 +17,7 @@
 
 <br/>
 
-<div align="center">
+<div align="">
   <h3>🧩 BOJ Profile</h3>
   
   <a href="https://solved.ac/mxxikr">
@@ -31,7 +31,7 @@
 
 <br/>
 
-<div align="center">
+<div align="">
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
@@ -45,7 +45,7 @@
 
 <br/>
 
-<div align="center">
+<div align="">
   <h3>⚙️ Backend & Frameworks</h3>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </div>
 
-<div align="center">
+<div align="">
   <h3>🛢️ Data Engineering & DB</h3>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
 </div>
 
-<div align="center">
+<div align="">
   <h3>☁️ Infrastructure & DevOps</h3>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
@@ -79,7 +79,7 @@
 
 <br/>
 
-<div align="center">
+<div align="">
   <h3>🏆 Certifications</h3>
   <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white">
