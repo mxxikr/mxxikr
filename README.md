@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-<p><a href='https://mxxikr.github.io/posts/spring-db-querydsl/'>[김영한의 스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - Querydsl</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-db-spring-data-jpa/'>[김영한의 스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - 스프링 데이터 JPA</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-db-jpa/'>[김영한의 스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - JPA</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-db-mybatis/'>[김영한의 스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - MyBatis</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-db-test/'>[김영한의 스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - 테스트</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-db-access-strategy/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - 활용 방안</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-db-querydsl/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - Querydsl</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-db-spring-data-jpa/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - 스프링 데이터 JPA</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-db-jpa/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - JPA</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-db-mybatis/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - MyBatis</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
