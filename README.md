@@ -37,7 +37,7 @@
 <!-- BLOG-POST-LIST:START -->
 <p><a href='https://mxxikr.github.io/posts/spring-transaction-propagation-practice/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 스프링 트랜잭션 전파2 - 활용</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-transaction-propagation/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 스프링 트랜잭션 전파1 - 기본</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-db-transaction-principles/'>[스프링 DB 2편 -ㄴ] 트랜잭션 원리 및 설정</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-db-transaction-principles/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 트랜잭션 원리 및 설정</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-db-access-strategy/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - 활용 방안</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-db-querydsl/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 데이터 접근 기술 - Querydsl</a></p><!-- BLOG-POST-LIST:END -->
 
