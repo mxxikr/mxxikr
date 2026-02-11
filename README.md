@@ -35,11 +35,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/jpa-association-mapping/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 연관관계 매핑 기초</a></p>
 <p><a href='https://mxxikr.github.io/posts/jpa-entity-mapping/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 엔티티 매핑</a></p>
 <p><a href='https://mxxikr.github.io/posts/jpa-persistence-context/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 영속성 관리 - 내부 동작 방식</a></p>
 <p><a href='https://mxxikr.github.io/posts/jpa-getting-started/'>[자바 ORM 표준 JPA 프로그래밍 기본편] JPA 시작하기</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-transaction-propagation-practice/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 스프링 트랜잭션 전파2 - 활용</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-transaction-propagation/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 스프링 트랜잭션 전파1 - 기본</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-transaction-propagation-practice/'>[스프링 DB 2편 - 데이터 접근 활용 기술] 스프링 트랜잭션 전파2 - 활용</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
