@@ -18,19 +18,29 @@
 <br/>
 
 <div align="">
-  <h3>🧩 BOJ Profile</h3>
-  
-  <a href="https://solved.ac/mxxikr">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mxxikr" height="180px" />
-  </a>
-  
-  <a href="https://solved.ac/mxxikr">
-    <img src="https://mazandi.herokuapp.com/api?handle=mxxikr&theme=warm" height="180px" />
-  </a>
+  <h3>🧩 Problem Solving</h3>
+
+  <div>
+    <a href="https://solved.ac/mxxikr">
+      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=mxxikr" height="150px" />
+    </a>
+    <a href="https://solved.ac/mxxikr">
+      <img src="https://mazandi.herokuapp.com/api?handle=mxxikr&theme=warm" height="150px" />
+    </a>
+  </div>
+  <div>
+    <a href="https://programmers.co.kr/learn/challenges">
+      <img src="https://img.shields.io/badge/Programmers-Lv.3-003866?style=for-the-badge&logo=programmers&logoColor=white" height="150px" />
+    </a>
+    <a href="https://programmers.co.kr/learn/challenges">
+      <img src="https://img.shields.io/badge/Status-Solved-E94560?style=for-the-badge&logo=codeforces&logoColor=white" height="150px" />
+    </a>
+  </div>
 </div>
 
 <br/>
 
+<br/>
 <div align="">
   <h3>📰 Latest Blog Posts</h3>
 
