@@ -11,7 +11,6 @@
 
 <div align="">
   <h3>📈 GitHub Analytics</h3>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mxxikr&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=151515&title_color=E94560&icon_color=E94560" height="180px" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mxxikr&layout=compact&theme=radical&hide_border=true&bg_color=151515&title_color=E94560" height="180px" />
 </div>
 
