@@ -46,7 +46,7 @@
 <!-- BLOG-POST-LIST:START -->
 <p><a href='https://mxxikr.github.io/posts/jpa-value-types/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 값 타입</a></p>
 <p><a href='https://mxxikr.github.io/posts/jpa-proxy-association-management/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 프록시와 연관관계 관리</a></p>
-<p><a href='https://mxxikr.github.io/posts/jpa-inheritance-mapping/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 상속관계 매핑</a></p>
+<p><a href='https://mxxikr.github.io/posts/jpa-inheritance-mapping/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 고급 매핑</a></p>
 <p><a href='https://mxxikr.github.io/posts/jpa-various-association-mapping/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 다양한 연관관계 매핑</a></p>
 <p><a href='https://mxxikr.github.io/posts/jpa-association-mapping/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 연관관계 매핑 기초</a></p><!-- BLOG-POST-LIST:END -->
 
