@@ -44,11 +44,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-<p><a href='https://mxxikr.github.io/posts/item-domain-development/'>[실전! 스프링 부트와 JPA 활용1] 상품 도메인 개발</a></p>
-<p><a href='https://mxxikr.github.io/posts/application-implementation-prep/'>[실전! 스프링 부트와 JPA 활용1] 애플리케이션 구현 준비</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-domain-analysis/'>[실전! 스프링 부트와 JPA 활용1] 도메인 분석 및 설계</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-project-setup/'>[실전! 스프링 부트와 JPA 활용1] 프로젝트 환경설정</a></p>
-<p><a href='https://mxxikr.github.io/posts/jpa-jpql-intermediate/'>[자바 ORM 표준 JPA 프로그래밍 기본편] 객체지향 쿼리 언어2 - 중급 문법</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-order-domain-development/'>[실전! 스프링 부트와 JPA 활용1] 주문 도메인 개발</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-item-domain-development/'>[실전! 스프링 부트와 JPA 활용1] 상품 도메인 개발</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-member-domain-development/'>[실전! 스프링 부트와 JPA 활용1] 회원 도메인 개발</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-application-implementation-prep/'>[실전! 스프링 부트와 JPA 활용1] 애플리케이션 구현 준비</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-domain-analysis/'>[실전! 스프링 부트와 JPA 활용1] 도메인 분석 및 설계</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
