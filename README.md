@@ -44,11 +44,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-api-lazy-loading-optimization/'>[실전! 스프링 부트와 JPA 활용2] API 개발 고급 - 지연 로딩과 조회 성능 최적화</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-api-advanced-preparation/'>[실전! 스프링 부트와 JPA 활용2] API 개발 고급 - 준비</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-api-development-basics/'>[실전! 스프링 부트와 JPA 활용2] API 개발 기본</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-web-layer-development/'>[실전! 스프링 부트와 JPA 활용1] 웹 계층 개발</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-order-domain-development/'>[실전! 스프링 부트와 JPA 활용1] 주문 도메인 개발</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-item-domain-development/'>[실전! 스프링 부트와 JPA 활용1] 상품 도메인 개발</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-member-domain-development/'>[실전! 스프링 부트와 JPA 활용1] 회원 도메인 개발</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-application-implementation-prep/'>[실전! 스프링 부트와 JPA 활용1] 애플리케이션 구현 준비</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-order-domain-development/'>[실전! 스프링 부트와 JPA 활용1] 주문 도메인 개발</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
