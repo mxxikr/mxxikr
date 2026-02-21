@@ -44,11 +44,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-data-jpa-common-interface/'>[실전! 스프링 데이터 JPA] 공통 인터페이스 기능</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-data-jpa-domain-model/'>[실전! 스프링 데이터 JPA] 예제 도메인 모델</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-data-jpa-project-setup/'>[실전! 스프링 데이터 JPA] 프로젝트 환경설정</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-spring-data-jpa-querydsl/'>[실전! 스프링 부트와 JPA 활용2] 다음으로 - 스프링 데이터 JPA와 QueryDSL</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-api-osiv-optimization/'>[실전! 스프링 부트와 JPA 활용2] API 개발 고급 - 실무 필수 최적화</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-api-collection-query-optimization/'>[실전! 스프링 부트와 JPA 활용2] API 개발 고급 - 컬렉션 조회 최적화</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-api-lazy-loading-optimization/'>[실전! 스프링 부트와 JPA 활용2] API 개발 고급 - 지연 로딩과 조회 성능 최적화</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-boot-jpa-api-osiv-optimization/'>[실전! 스프링 부트와 JPA 활용2] API 개발 고급 - 실무 필수 최적화</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
