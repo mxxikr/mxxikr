@@ -44,11 +44,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-domain-model/'>[실전! Querydsl] 예제 도메인 모델</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-project-setup/'>[실전! Querydsl] 프로젝트 환경설정</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-data-jpa-analysis/'>[실전! 스프링 데이터 JPA] 스프링 데이터 JPA 분석</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-data-jpa-remaining-features/'>[실전! 스프링 정규 데이터 JPA] 나머지 기능들</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-data-jpa-extensions/'>[실전! 스프링 데이터 JPA] 확장 기능</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-data-jpa-query-methods/'>[실전! 스프링 데이터 JPA] 쿼리 메소드 기능</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-data-jpa-common-interface/'>[실전! 스프링 데이터 JPA] 공통 인터페이스 기능</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-data-jpa-extensions/'>[실전! 스프링 데이터 JPA] 확장 기능</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
