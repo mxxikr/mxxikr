@@ -44,11 +44,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-practical-usage/'>[실전! Querydsl] 실무 활용 - 순수 JPA와 Querydsl</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-intermediate-syntax/'>[실전! Querydsl] 중급 문법</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-basic-syntax/'>[실전! Querydsl] 기본 문법</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-domain-model/'>[실전! Querydsl] 예제 도메인 모델</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-project-setup/'>[실전! Querydsl] 프로젝트 환경설정</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-data-jpa-analysis/'>[실전! 스프링 데이터 JPA] 스프링 데이터 JPA 분석</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-project-setup/'>[실전! Querydsl] 프로젝트 환경설정</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
