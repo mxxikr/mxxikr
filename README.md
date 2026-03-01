@@ -44,11 +44,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-advanced-thread-local/'>[스프링 핵심 원리 - 고급편] 쓰레드 로컬 - ThreadLocal</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-advanced-example-log-tracer/'>[스프링 핵심 원리 - 고급편] 예제 만들기</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-spring-data-features/'>[실전! Querydsl] 스프링 데이터 JPA가 제공하는 Querydsl 기능</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-spring-data-jpa/'>[실전! Querydsl] 실무 활용 - 스프링 데이터 JPA와 Querydsl</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-practical-usage/'>[실전! Querydsl] 실무 활용 - 순수 JPA와 Querydsl</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-intermediate-syntax/'>[실전! Querydsl] 중급 문법</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-boot-querydsl-practical-usage/'>[실전! Querydsl] 실무 활용 - 순수 JPA와 Querydsl</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
