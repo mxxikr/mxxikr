@@ -44,11 +44,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-advanced-aspect-aop/'>[스프링 핵심 원리 - 고급편] @Aspect AOP</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-advanced-bean-post-processor/'>[스프링 핵심 원리 - 고급편] 빈 후처리기</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-advanced-proxy-factory/'>[스프링 핵심 원리 - 고급편] 스프링이 지원하는 프록시</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-advanced-dynamic-proxy/'>[스프링 핵심 원리 - 고급편] 동적 프록시 기술</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-proxy-decorator-pattern/'>[스프링 핵심 원리 - 고급편] 프록시 패턴과 데코레이터 패턴</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-template-callback-pattern/'>[스프링 핵심 원리 - 고급편] 템플릿 메서드 패턴과 콜백 패턴</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-thread-local/'>[스프링 핵심 원리 - 고급편] 쓰레드 로컬 - ThreadLocal</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-advanced-proxy-decorator-pattern/'>[스프링 핵심 원리 - 고급편] 프록시 패턴과 데코레이터 패턴</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
