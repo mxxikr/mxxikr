@@ -44,11 +44,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+<p><a href='https://mxxikr.github.io/posts/spring-advanced-aop-example/'>[스프링 핵심 원리 - 고급편] 스프링 AOP 실전 예제</a></p>
+<p><a href='https://mxxikr.github.io/posts/spring-advanced-aop-pointcut/'>[스프링 핵심 원리 - 고급편] 스프링 AOP 포인트컷</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-advanced-aop-implementation/'>[스프링 핵심 원리 - 고급편] 스프링 AOP 구현</a></p>
 <p><a href='https://mxxikr.github.io/posts/spring-advanced-aop-concept/'>[스프링 핵심 원리 - 고급편] 스프링 AOP 개념</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-aspect-aop/'>[스프링 핵심 원리 - 고급편] @Aspect AOP</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-bean-post-processor/'>[스프링 핵심 원리 - 고급편] 빈 후처리기</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-proxy-factory/'>[스프링 핵심 원리 - 고급편] 스프링이 지원하는 프록시</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/spring-advanced-aspect-aop/'>[스프링 핵심 원리 - 고급편] @Aspect AOP</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
