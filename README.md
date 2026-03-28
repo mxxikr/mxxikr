@@ -44,11 +44,11 @@
   <h3>📰 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-aop-precautions/'>[스프링 핵심 원리 - 고급편] 스프링 AOP 실무 주의사항</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-aop-example/'>[스프링 핵심 원리 - 고급편] 스프링 AOP 실전 예제</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-aop-pointcut/'>[스프링 핵심 원리 - 고급편] 스프링 AOP 포인트컷</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-aop-implementation/'>[스프링 핵심 원리 - 고급편] 스프링 AOP 구현</a></p>
-<p><a href='https://mxxikr.github.io/posts/spring-advanced-aop-concept/'>[스프링 핵심 원리 - 고급편] 스프링 AOP 개념</a></p><!-- BLOG-POST-LIST:END -->
+<p><a href='https://mxxikr.github.io/posts/kotlin-default-named-arguments/'>Kotlin Default Arguments와 Named Arguments</a></p>
+<p><a href='https://mxxikr.github.io/posts/kotlin-val-data-class/'>Kotlin val과 Data Class</a></p>
+<p><a href='https://mxxikr.github.io/posts/kotlin-inheritance-spring-integration/'>Kotlin 상속 제한과 Spring과의 통합</a></p>
+<p><a href='https://mxxikr.github.io/posts/kotlin-gradle-build-kts/'>build.gradle.kts와 Kotlin Script, DSL의 이해</a></p>
+<p><a href='https://mxxikr.github.io/posts/kotlin-null-safety/'>Kotlin의 Null Safety</a></p><!-- BLOG-POST-LIST:END -->
 
 </div>
 
